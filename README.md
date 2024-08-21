@@ -1,6 +1,6 @@
 # IoT
 Raspberry Pi ile IoT projesi
-Bu proje, Raspberry Pi tabanlı bir sistemin web arayüzü üzerinden kontrolünü ve veri yönetimini gerçekleştiren bir uygulamadır. Proje aşağıdaki bileşenlerden oluşmaktadır:
+Bu proje, Raspberry Pi tabanlı bir sistemin web arayüzü üzerinden kontrolünü ve veri yönetimini gerçekleştiren bir uygulamadır.Projede PHP, Python, HTML, CSS ve JavaScript kullanılmıştır. Proje aşağıdaki bileşenlerden oluşmaktadır:
 1.	Web Arayüzü (Frontend):
 o	Ana Dashboard: Dashboard'da üst sıradaki üç blok, Raspberry Pi’den otomatik olarak alınan ve kaydedilen verileri göstermektedir. Alt sıradaki üç blok ise "Aç" ve "Kapat" butonları ile Raspberry Pi'ye komut göndermekte ve bu komutların işlenmesini sağlamaktadır.
 o	Light/Dark Mode Seçimi: Kullanıcıların arayüzdeki tema seçimini (açık veya koyu) düzgün bir şekilde yapabilmesini sağlayan bir özellik bulunmaktadır.
